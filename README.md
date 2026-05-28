@@ -20,18 +20,29 @@ In each level, the player must **solve a puzzle** by correctly positioning and i
 
 Once the lamp is lit, the bug is resolved: the spider dies, the door opens, and the player can proceed to the next level. By progressing through the levels, the player gradually fixes the infected computer and restores its functionality.
 
-## Resources Used
-The project was entirely developed using the **Unity Game Engine**.
-Several free assets and Unity packages were also used during development to support both gameplay and presentation features.
-    
-    Terminal User Interface Sound Effects Pack LITE Edition -- Used for keyboard clicking and interface sound effects.
-    
-    Free Ambient \& Lo-Fi Sci-Fi Music Starter Pack -- Used for the game's background music and ambient audio.
-    
-    Jammo Character -- Used for the player character model.
+## How To Open The Game
 
-    Quarter View 3D Action Assets Pack -- Used for the NPC character model.
-    
-    Sci-Fi Lab Kit -- Used for the environment, buildings, and puzzle block models.
-    
-    Spider Polygon -- Used for the spider enemy model representing the ``bugs''.
+Follow this instructions to open your game.
+
+1. **Windows**
+
+   - Open the **BuildAndRunWindows** folder.
+     
+   - Click on the **NOTANDOR.exe** executable.
+     
+   - If a warning appears, click on **Open Anyway**
+
+3. **Mac**
+
+   - Open the **BuildAndRunMac** folder.
+     
+   - Click on the **NOTANDOR.exe** executable.
+     
+   - If a warning appears, open your terminal and write the following command.
+    ```bash
+    chmod -R +x /Applications/BuildAndRunMac.app/Contents/MacOS/
+    ```
+    - Open your settings and go to **Privacy & Security**.
+      
+    - Under **Security**, click on the **Open Anyway** button near the message *BuildAndRunMac.app was blocked to protect your Mac.* 
+
