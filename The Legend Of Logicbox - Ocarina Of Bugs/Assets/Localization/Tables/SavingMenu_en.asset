@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: SavingMenu_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ad6506a3e2e6aef4da21d7b4c43d0774, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 21250461696
+    m_Localized: Save Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1136780136448
+    m_Localized: Return To Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11355702710272
+    m_Localized: 'Level:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11614201860096
+    m_Localized: 'Date:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49049480744960
+    m_Localized: Choose the game save file you want to load.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60855049801728
+    m_Localized: DELETE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1094884092039168
+    m_Localized: 'Are you sure you want to delete this save file?
+
+      All data
+      will be lost.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1095225084760064
+    m_Localized: 'Are you sure you want to overwrite this save file?
+
+      Some
+      data may be lost.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

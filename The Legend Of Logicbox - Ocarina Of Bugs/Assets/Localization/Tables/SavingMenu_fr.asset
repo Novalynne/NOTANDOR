@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: SavingMenu_fr
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: ad6506a3e2e6aef4da21d7b4c43d0774, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 21250461696
+    m_Localized: Menu De Sauvetage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1136780136448
+    m_Localized: "Retourner \xC0 La Partie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11355702710272
+    m_Localized: 'Niveau:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11614201860096
+    m_Localized: 'Date:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49049480744960
+    m_Localized: Choisir le fichier de jeu que vous voulez charger.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60855049801728
+    m_Localized: EFFACER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1094884092039168
+    m_Localized: "\xCAtes-vous s\xFBr de vuouloir effacer ce fichier de jeu?\nToutes
+      donn\xE9es seront perdues."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1095225084760064
+    m_Localized: "\xCAtes-vous s\xFBr de vouloir remplacer ce fichier de jeu?\nQuelques
+      donn\xE9es pourraient \xEAtre perdues."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

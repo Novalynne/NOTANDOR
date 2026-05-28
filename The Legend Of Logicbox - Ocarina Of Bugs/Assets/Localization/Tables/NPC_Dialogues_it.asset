@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: NPC_Dialogues_it
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: f4af823cb559fba408e13b7c84ac587f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 169914392576
+    m_Localized: Hey! Quel Bug sta bloccando il segnale, bisogna fermarlo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224905912320
+    m_Localized: Accendi la lampadina con un raggio di energia positiva per uccidere
+      il Bug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090396348416
+    m_Localized: "C'\xE8 solo un raggio di energia negativa qui per\xF2..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1216061890560
+    m_Localized: "Ma tranquillo. \nBasta che sposti quel blocco Not davanti al raggio
+      di energia negativa per trasformarla in positiva"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387965440000
+    m_Localized: 'Prendi il blocco con E e spostalo con le frecce.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7909650980864
+    m_Localized: Premi E per parlare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8214442663936
+    m_Localized: Premi E per parlare di nuovo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277590564864
+    m_Localized: "Heyyyyy ascolta!\nQuello \xE8 un blocco And"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 326647144448
+    m_Localized: Praticamente per rindirizzare il raggio ha bisogno di due raggi
+      verdi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429730553856
+    m_Localized: Per fortuna abbiamo tutto il materiale necessario in questa stanza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440702853120
+    m_Localized: "Ma attento, il pavimento \xE8 scivoloso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502208126976
+    m_Localized: Usa gli altri blocchi per non scivolare via
+    m_Metadata:
+      m_Items: []
+  - m_Id: 529185890304
+    m_Localized: "Hey... ciao amico...\nCome ti chiamavi? Ah gi\xE0 Jammo..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 567437942784
+    m_Localized: Quel brutto Bug sta bloccando il segnale...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18260706713600
+    m_Localized: Ma ho portato in questa stanza un blocco Or cosi lo puoi sistemare!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18277014167552
+    m_Localized: Un blocco Or riceve un raggio verde e uno rosso... e li trasforma
+      in uno verde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18294596689920
+    m_Localized: "Ma attento, questa stanza \xE8 piena di piastrelle rimbalzanti
+      che ti rimandano indietro..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1151586939166720
+    m_Localized: Forza, manca poco!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1151838257668096
+    m_Localized: FORZAAAAAAAAAAAA!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1151972244709376
+    m_Localized: Credo in te!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

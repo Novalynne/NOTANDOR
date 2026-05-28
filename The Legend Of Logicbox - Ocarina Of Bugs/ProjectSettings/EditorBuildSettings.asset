@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Tests scenes/Test blocks 1.unity
+    guid: 6aad41689323f404a8a75288776f4a31
+  - enabled: 0
+    path: Assets/Scenes/Tests scenes/Test tutorial.unity
+    guid: 17d0496b2dd613b468fd5c45c67d0669
+  - enabled: 0
+    path: Assets/Scenes/Tests scenes/Test player.unity
+    guid: 1f3ac4f10df39e74887d465ae9aa33a1
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Level 1 - Tutorial Not.unity
+    guid: 2b07b7bda9457e447bdd41298d4f73b2
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Level 2 - Tutorial And.unity
+    guid: 2ef4242164d5e7340b619079635abd09
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Level 3 - Tutorial Or.unity
+    guid: d577b3f8f3292814c8173f246a85d4cf
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Cutscene set 1.unity
+    guid: 35da81fd447795549a0e2d29c9bf17ea
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Cutscene set 2.unity
+    guid: a22d7228c0e2c7743be0dcba100b2d0e
+  - enabled: 1
+    path: Assets/Scenes/Game Levels/Level 4 - Master.unity
+    guid: e57af51c46c854440b153a571812d259
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 0582213972043dc498ff385f6fb6d544, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.localization.settings: {fileID: 11400000, guid: 1ac0d8f9ec453854f868404e58b4e9ed, type: 2}
+  m_UseUCBPForAssetBundles: 0

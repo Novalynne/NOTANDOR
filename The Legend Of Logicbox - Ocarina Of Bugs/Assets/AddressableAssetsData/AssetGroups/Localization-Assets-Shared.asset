@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 86a3576bfb5708f4e80b8ec93d9fcfea
+  m_SerializeEntries:
+  - m_GUID: 06a622481217b8349b73ec85ac064a87
+    m_Address: Assets/Localization/Tables/Cutscene Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e8bca5d1c0f7714facb8dab86e9ee0b
+    m_Address: Assets/Interactable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4782ea1bb4b52ae4fbcaf683017979b5
+    m_Address: Assets/Localization/Tables/MenuTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad6506a3e2e6aef4da21d7b4c43d0774
+    m_Address: Assets/Localization/Tables/SavingMenu Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4af823cb559fba408e13b7c84ac587f
+    m_Address: Assets/NPC_Dialogues Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 6d9a5e4a0c2a4f447a5a2bf6018a1d58, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0340d822349ccb743a90893fef7fe900, type: 2}
+    - {fileID: 11400000, guid: c88fcd3e4171e70409d833cd5c0790df, type: 2}

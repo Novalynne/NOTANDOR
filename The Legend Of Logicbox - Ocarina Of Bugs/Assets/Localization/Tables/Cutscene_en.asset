@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Cutscene_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 06a622481217b8349b73ec85ac064a87, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 58454958080
+    m_Localized: Let's see if there's any mail in my inbox...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1567905275904
+    m_Localized: 'Oh my! They hacked my PC! It''s full of bugs!!! '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2178537218048
+    m_Localized: I have to go rewire the circuits!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5540578058240
+    m_Localized: HERE IT IS! THE LATEST BUG!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5951758262272
+    m_Localized: 'You won''t escape me: The power of debugging!!!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6270198210560
+    m_Localized: Hurray! The computer is safe!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6625543839744
+    m_Localized: The End.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3988544056975360
+    m_Localized: You can now rotate blocks with R!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

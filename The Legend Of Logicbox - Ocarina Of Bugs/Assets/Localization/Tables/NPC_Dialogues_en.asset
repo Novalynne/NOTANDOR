@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: NPC_Dialogues_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: f4af823cb559fba408e13b7c84ac587f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 169914392576
+    m_Localized: HEY! That bug is blocking the signal, we need to stop it!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224905912320
+    m_Localized: Light the light bulb with a beam of positive energy to kill the
+      Bug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090396348416
+    m_Localized: There's just a ray of negative energy here though...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1216061890560
+    m_Localized: 'But don''t worry.
+
+      Just move that Not block in front of the
+      negative energy beam to transform it into positive.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387965440000
+    m_Localized: Take the block with E and move it with the arrows.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7909650980864
+    m_Localized: Press E to talk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8214442663936
+    m_Localized: Press E to talk again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502208126976
+    m_Localized: Use the other blocks to avoid slipping away
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440702853120
+    m_Localized: But be careful, the floor is slippery.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429730553856
+    m_Localized: Luckily we have all the necessary materials in this room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 326647144448
+    m_Localized: Basically, to redirect the beam you need two green beams.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277590564864
+    m_Localized: 'Heyyyyy listen!
+
+      That''s an And block'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 529185890304
+    m_Localized: 'Hey... hi buddy...
+
+      What was your name? Oh yeah, Jammo...'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 567437942784
+    m_Localized: That nasty bug is blocking the signal...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18260706713600
+    m_Localized: But I brought a block into this room. So you can fix it!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18277014167552
+    m_Localized: An Or block receives a green and a red ray... and turns them into
+      a green one
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18294596689920
+    m_Localized: But be careful, this room is full of bouncy tiles that send you
+      back...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1151586939166720
+    m_Localized: Come on, there's not much left!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1151838257668096
+    m_Localized: GOOOOOOOOOOOOO!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1151972244709376
+    m_Localized: I believe in you!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

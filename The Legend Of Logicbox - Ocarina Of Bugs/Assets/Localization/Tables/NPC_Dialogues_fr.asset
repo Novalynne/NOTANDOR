@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: NPC_Dialogues_fr
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: f4af823cb559fba408e13b7c84ac587f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 169914392576
+    m_Localized: "H\xC9! Ce bug bloque le signal, il faut l'arr\xEAter!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224905912320
+    m_Localized: "Allumez l'ampoule avec un faisceau d'\xE9nergie positive pour tuer
+      l'insecte.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090396348416
+    m_Localized: "Il y a pourtant ici une lueur d'\xE9nergie n\xE9gative..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1216061890560
+    m_Localized: "Mais ne vous inqui\xE9tez pas.\r\n\r\nD\xE9placez simplement le
+      bloc Not devant le faisceau d'\xE9nergie n\xE9gative pour le transformer en
+      \xE9nergie positive."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387965440000
+    m_Localized: "Prenez le bloc marqu\xE9 E et d\xE9placez-le avec les fl\xE8ches."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7909650980864
+    m_Localized: Appuyez sur E pour parler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8214442663936
+    m_Localized: "Appuyez sur E pour parler \xE0 nouveau"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502208126976
+    m_Localized: "Utilisez les autres blocs pour \xE9viter de glisser."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 440702853120
+    m_Localized: Mais attention, le sol est glissant.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429730553856
+    m_Localized: "Heureusement, nous avons tout le mat\xE9riel n\xE9cessaire dans
+      cette pi\xE8ce."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 326647144448
+    m_Localized: 'En gros, pour rediriger le faisceau, il vous faut deux faisceaux
+      verts.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 277590564864
+    m_Localized: "H\xE9! \xC9coute!\r\nC'est un blocage ET"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 529185890304
+    m_Localized: "Salut mon pote...\r\nComment tu t'appelles d\xE9j\xE0? Ah oui,
+      Jammo..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 567437942784
+    m_Localized: "Ce satan\xE9 insecte bloque le signal..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18260706713600
+    m_Localized: "Mais j'ai apport\xE9 un bloc OR dans cette pi\xE8ce pour que vous
+      puissiez le r\xE9parer!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18277014167552
+    m_Localized: "Un bloc OR re\xE7oit un rayon vert et un rayon rouge... et les
+      transforme en un rayon vert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18294596689920
+    m_Localized: "Mais attention, cette pi\xE8ce est pleine de dalles rebondissantes
+      qui vous font reculer..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1151586939166720
+    m_Localized: Allez, il ne reste plus grand-chose!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1151838257668096
+    m_Localized: GOOOOOOOOOOOOO!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1151972244709376
+    m_Localized: Je crois en toi!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
