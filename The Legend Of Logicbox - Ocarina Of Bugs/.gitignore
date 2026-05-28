@@ -108,3 +108,5 @@ InitTestScene*.unity*
 # DO NOT IGNORE
 !BuildAndRunMac/
 !BuildAndRunWindows/
+!BuildAndRunMac/**
+!BuildAndRunWindows/**
