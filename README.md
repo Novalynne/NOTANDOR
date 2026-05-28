@@ -22,18 +22,24 @@ Once the lamp is lit, the bug is resolved: the spider dies, the door opens, and 
 
 ## How To Open The Game
 
-Follow this instructions to open your game.
+Follow this instructions to download and open your game.
+
+First of all go to **Releases**, then download the game based on your device: **Windows** or **Mac**.
 
 1. **Windows**
 
+   - Unzip the **BuildAndRunWindows.zip** folder.
+     
    - Open the **BuildAndRunWindows** folder.
      
    - Click on the **NOTANDOR.exe** executable.
      
-   - If a warning appears, click on **Open Anyway**
+   - If a warning appears, click on **Open Anyway**.
 
 3. **Mac**
 
+   - Unzip the **BuildAndRunMac.zip** folder.
+     
    - Open the **BuildAndRunMac** folder.
      
    - Click on the **NOTANDOR.exe** executable.
