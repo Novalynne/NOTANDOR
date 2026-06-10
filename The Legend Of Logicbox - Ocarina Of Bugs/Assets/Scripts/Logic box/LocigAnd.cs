@@ -32,7 +32,7 @@ public class LogicAnd : LogicGate
             return LaserColor.Preview;
         }
         // Se il numero di raggi verdi ricevuti è uguale a quelli richiesti, emetti verde, altrimenti rosso
-        return (currentGreen >= requiredInputs) ? LaserColor.Green : LaserColor.Red; 
+        return (currentGreen == requiredInputs) ? LaserColor.Green : LaserColor.Red; 
     }
 
     protected override void ResetGate()

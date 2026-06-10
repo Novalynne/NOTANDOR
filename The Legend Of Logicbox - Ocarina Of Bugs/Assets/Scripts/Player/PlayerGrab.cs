@@ -67,11 +67,12 @@ public class PlayerGrab : MonoBehaviour {
             return;
         }
 
-        // Tasto per staccarsi
-        if (Input.GetKeyDown(KeyCode.Q) && !isMoving && !isRotating) StopGrab();
-        // Se stiamo ruotando o muovendo, ignoriamo altri input finché non finisce l'azione
+        // Se stiamo ruotando o muovendo il blocco ignora altri input finché non finisce l'azione
         if (!isMoving && !isRotating)
         {
+            // Tasto per staccarsi
+            if (Input.GetKeyDown(KeyCode.Q)) StopGrab();
+            // Tasto per ruotare l'oggetto (solo se è rotabile)
             if (Input.GetKeyDown(KeyCode.R) && grabbedObject != null && grabbedObject.isRotatable) StartCoroutine(RotateObject());
             if (grabbedObject == null || !grabbedObject.isMovable)
             {
@@ -479,7 +480,11 @@ public class PlayerGrab : MonoBehaviour {
 
         grabbedObject = null;
         // Ripristiniamo lo stato di interazione e movimento del player
-        if (playerInteract != null) playerInteract.SetInteracting(false);
+        if (playerInteract != null)
+        {
+            playerInteract.SetInteracting(false);
+            playerInteract.ClearCurrentInteractable();
+        }
         if (moveScript != null)
         {
             // Ripristiniamo i valori originali

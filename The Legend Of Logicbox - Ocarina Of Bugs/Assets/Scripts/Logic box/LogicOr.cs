@@ -45,5 +45,6 @@ public class LogicOr : LogicGate
     {
         // Reset del flag foundGreen e del contatore degli ingressi alla fine di ogni frame
         currentInputs = 0;
+        foundGreen = false;
     }
 }

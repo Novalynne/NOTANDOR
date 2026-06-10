@@ -40,6 +40,11 @@ public class PlayerInteract : MonoBehaviour
         if (pressEContinueText != null) // Mostra o nascondi il messaggio "Press E to continue" in base allo stato di interazione
             pressEContinueText.SetActive(value); // Se il giocatore non � pi� in interazione, chiama ClearCurrentState per nascondere eventuali messaggi residui
     }
+    //metodo per cancellare l'oggetto interagibile attualmente selezionato, chiamato quando si esce da un'interazione
+    public void ClearCurrentInteractable()
+    {
+        currentInteractable = null;
+    }
 
     void Update()
     {
