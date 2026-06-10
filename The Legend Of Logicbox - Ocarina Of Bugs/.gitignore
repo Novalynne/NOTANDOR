@@ -104,9 +104,3 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
-
-# DO NOT IGNORE
-!BuildAndRunMac/
-!BuildAndRunWindows/
-!BuildAndRunMac/**
-!BuildAndRunWindows/**
