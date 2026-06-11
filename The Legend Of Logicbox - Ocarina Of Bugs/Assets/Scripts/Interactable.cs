@@ -5,7 +5,7 @@ public abstract class Interactable : MonoBehaviour
 {
     // Impostazioni di interazione
     [Header("Interaction Settings")]
-    public float interactionRange = 3f;
+    //public float interactionRange = 3f;
     public string promptMessage = "";
 
     [Header("Localizzazione (opzionale)")]
