@@ -32,12 +32,12 @@ public class LogicOr : LogicGate
 
     protected override LaserColor EvaluateLogic()
     {
-        if (currentInputs < requiredInputs)
+        if (currentInputs != requiredInputs)
         {
-            // Se non abbiamo ancora ricevuto abbastanza ingressi reali, rimaniamo in stato di preview
+            // Se non ha ancora ricevuto il numero corretto di ingressi reali, rimane in stato di preview
             return LaserColor.Preview;
         }
-        // Se almeno uno degli ingressi reali era verde, l'uscita è verde altrimenti è rosso
+        // Se almeno uno degli ingressi reali era verde, l'uscita è verde altrimenti è rossa
         return foundGreen ? LaserColor.Green : LaserColor.Red;
     }
 
